@@ -1,0 +1,4 @@
+streamlit
+groq
+streamlit-js-eval
+python-dotenv
