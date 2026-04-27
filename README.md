@@ -23,4 +23,4 @@ Gemini API
 Practice technical and behavioral interviews with AI-driven insights to improve performance and confidence.
 
 🔗 Links
-Live Demo: https://interviewchatbot-fkczgdykp7sgntxqce5qqx.streamlit.app
+- Live Demo: [Try it here](https://interviewchatbot-fkczgdykp7sgntxqce5qqx.streamlit.app)
